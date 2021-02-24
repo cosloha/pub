@@ -23,8 +23,3 @@ Using [Snipe-IT](https://github.com/snipe/snipe-it) for inventory? Yup, it's ope
 Member of local, State or Federal Government? Join [GitHub Government](https://github.com/government/welcome#readme). Once a member, check out the [Best Practices](https://github.com/government/best-practices).
 
 
-
-
-
-Various issues can be created and optionally assigned to people. Here's [#1](https://github.com/cosloha-org/org_doc/issues/1) assigned to [@HA_McLaughlin](https://github.com/HA-omclaughlin)
-
